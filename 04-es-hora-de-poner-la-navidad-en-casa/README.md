@@ -27,4 +27,4 @@ __#__
 __#__
 ```
 
-Ten en cuenta que el árbol es un string y necesitas los saltos de línea ```php\n``` para cada línea para que se forme bien el árbol.
+Ten en cuenta que el árbol es un string y necesitas los saltos de línea \n para cada línea para que se forme bien el árbol.
