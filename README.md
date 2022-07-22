@@ -1,2 +1,2 @@
-# challenges
+# Challenges
 challenges from advent.js
